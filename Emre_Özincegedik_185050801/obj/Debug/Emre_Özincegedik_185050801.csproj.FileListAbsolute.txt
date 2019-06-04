@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\programlama\c#\Emre_Özincegedik_185050801.Analysis-of-Alghorithms.Project3\Emre_Özincegedik_185050801\bin\Debug\Emre_Özincegedik_185050801.exe.config
+C:\Users\Emre\Desktop\programlama\c#\Emre_Özincegedik_185050801.Analysis-of-Alghorithms.Project3\Emre_Özincegedik_185050801\bin\Debug\Emre_Özincegedik_185050801.exe
+C:\Users\Emre\Desktop\programlama\c#\Emre_Özincegedik_185050801.Analysis-of-Alghorithms.Project3\Emre_Özincegedik_185050801\bin\Debug\Emre_Özincegedik_185050801.pdb
+C:\Users\Emre\Desktop\programlama\c#\Emre_Özincegedik_185050801.Analysis-of-Alghorithms.Project3\Emre_Özincegedik_185050801\obj\Debug\Emre_Özincegedik_185050801.csprojAssemblyReference.cache
+C:\Users\Emre\Desktop\programlama\c#\Emre_Özincegedik_185050801.Analysis-of-Alghorithms.Project3\Emre_Özincegedik_185050801\obj\Debug\Emre_Özincegedik_185050801.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\programlama\c#\Emre_Özincegedik_185050801.Analysis-of-Alghorithms.Project3\Emre_Özincegedik_185050801\obj\Debug\Emre_Özincegedik_185050801.exe
+C:\Users\Emre\Desktop\programlama\c#\Emre_Özincegedik_185050801.Analysis-of-Alghorithms.Project3\Emre_Özincegedik_185050801\obj\Debug\Emre_Özincegedik_185050801.pdb

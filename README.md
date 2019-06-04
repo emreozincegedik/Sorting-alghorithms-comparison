@@ -1,0 +1,1 @@
+This project compares Insertion Sort, Merge Sort, Heap Sort and 3 versions of Quick Sorts and writes original array as well as result array to text files accordingly.
